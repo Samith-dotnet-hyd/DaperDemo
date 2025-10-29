@@ -63,7 +63,8 @@ namespace DaperDemo.Controllers
                 if (!deleted) return StatusCode(500, "A problem happened while deleting the student.");
                 return NoContent();
             //traalalalalalal
-            }
+            //taralalalalalala
         }
+    }
     }
 
